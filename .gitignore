@@ -17,3 +17,5 @@ venv/
 .DS_Store
 .vscode/
 .idea/
+.cursor/
+docker-compose.yml
